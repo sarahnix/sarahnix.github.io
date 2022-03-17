@@ -2,6 +2,9 @@
 
 I am a computer science student at the University of Florida
 
+### Social Media
+'''
 Check out my [linkedin](www.linkedin.com/in/sarah-nix-8567871b5)
 
 You can follow me here on [twitter](https://twitter.com/sarahknix)
+'''
